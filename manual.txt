@@ -1,0 +1,4 @@
+Neovim is a modern, powerful and highly customizable text editor that builds upon the foundation of Vim. It offers a familiar experience for Vim users while introducing improvements and features for a smoother workdflow.
+
+Insert Mode: It funtions similarly to most text editors. Keys for Insert mode is activated by pressing i,a,o.
+[Use a usually].
