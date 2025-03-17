@@ -1,2 +1,2 @@
-vim.cmd("set expandtab")
-vim.cmd("set tabstop=2")
+require("user.options")
+
